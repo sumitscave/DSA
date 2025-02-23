@@ -1,6 +1,10 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
-
- return 0;
+int main()
+{
+    // cout<<"Welcome again"; comments
+    
+    cout<<"Welcome again";
+    cout<<"Welcome again";
+    return 0;
 }
